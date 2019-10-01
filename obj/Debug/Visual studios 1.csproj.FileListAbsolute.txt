@@ -1,0 +1,7 @@
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\bin\Debug\Visual studios 1.exe.config
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\bin\Debug\Visual studios 1.exe
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\bin\Debug\Visual studios 1.pdb
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\obj\Debug\Visual studios 1.csprojAssemblyReference.cache
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\obj\Debug\Visual studios 1.csproj.CoreCompileInputs.cache
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\obj\Debug\Visual studios 1.exe
+C:\Users\476395.ESCG\source\repos\Visual studios 1\Visual studios 1\obj\Debug\Visual studios 1.pdb
